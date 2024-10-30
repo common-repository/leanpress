@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.leanpress_list {
+	padding:0;
+	margin:0;
+}
+
+.leanpress_list li {
+	list-style: none;
+}
+
+.leanpress_list > li {
+	padding:.25em;
+}
+
+.leanpress_list_meta {
+	font-size:small;
+}
+
+.leanpress_btn {
+	padding:.5em .25em;
+	text-decoration: none;
+	box-shadow: none !important;
+	text-transform: uppercase;
+	border-radius: 3px;
+	background-color:inherit;
+}

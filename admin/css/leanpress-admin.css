@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.leanpress_ul_nostyle {
+
+	margin:0;
+	padding:0;
+
+}
+
+.leanpress_ul_nostyle li {
+	list-style: none;
+	padding:.5em 1em;
+	border: 1px solid #efefef;
+	margin:0;
+}
